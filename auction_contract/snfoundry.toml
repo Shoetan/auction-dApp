@@ -1,0 +1,10 @@
+
+# 0x1e2d16334ddcd1f49ae12f25de16ec67ef4816aad9a2bf164b9ec4472fc1087 class hash after declare just redeploy #  
+# incase of time out
+
+# 0x297c8d5e9f85eea7e8c3987a4ecb3a7223f32f227a3cabd897ba44c8942d974 contract address
+
+[sncast.default]
+account = "deployer"
+accounts-file = "/Users/admin/.starknet_accounts/starknet_open_zeppelin_accounts.json"
+url = "http://localhost:5050/rpc"
